@@ -1,4 +1,5 @@
 
+[![<ORG_NAME>](https://circleci.com/gh/tienthuan1412/devops-lab04.svg?style=svg)](<https://app.circleci.com/pipelines/github/tienthuan1412/devops-lab04>)
 
 ## Project Overview
 
